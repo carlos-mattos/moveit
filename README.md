@@ -19,4 +19,19 @@
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
+## 🗂 Como baixar e iniciar o projeto
 
+```bash
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/carlos-mattos/moveit.git
+# ou use a opção de download.
+
+# Entre na pasta react-salary
+$ cd react-salary
+
+# Instale as dependências
+$ npm install
+
+# Inicie o React
+$ npm start
+```
