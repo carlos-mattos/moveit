@@ -9,3 +9,14 @@
 <p align="center">
   <img src="github-readme/demo.gif" alt="demonstracao">
 </p>
+
+## 👀 Demo
+<h4>Deploy on Vercel: https://moveit-eight-gray.vercel.app/</h4>
+
+## 🚀 Tecnologias utilizadas
+
+- [NextJS](https://github.com/vercel/next.js/)
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+
+
