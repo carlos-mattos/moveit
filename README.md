@@ -26,8 +26,8 @@
 $ git clone https://github.com/carlos-mattos/moveit.git
 # ou use a opção de download.
 
-# Entre na pasta react-salary
-$ cd react-salary
+# Entre na pasta moveit
+$ cd moveit
 
 # Instale as dependências
 $ npm install
@@ -35,3 +35,7 @@ $ npm install
 # Inicie o React
 $ npm start
 ```
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
